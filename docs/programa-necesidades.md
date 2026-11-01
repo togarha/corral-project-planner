@@ -371,7 +371,12 @@ El proyecto técnico deberá ser redactado y dirigido por profesionales competen
 
 ## Anexo gráfico
 
-- [Imagen satelital de referencia](../assets/imagen-satelital.png).
-- [Plano acotado del perímetro](../assets/perimetro-acotado.png).
+### 1. Plano acotado del perímetro
+
+![Plano acotado del perímetro](../assets/perimetro-acotado.png)
+
+### 2. Imagen satelital de referencia
+
+![Imagen satelital de referencia](../assets/imagen-satelital.png)
 
 Las imágenes son referencias visuales de trabajo y no sustituyen un levantamiento topográfico ni la documentación técnica necesaria para el proyecto.
