@@ -1,0 +1,11 @@
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Entornos y cachés
+.venv/
+__pycache__/
+.pytest_cache/
